@@ -1,2 +1,2 @@
 # MFMA_NER
-Code for MFMA for CNER
+We will release the source code of MFMA here.
